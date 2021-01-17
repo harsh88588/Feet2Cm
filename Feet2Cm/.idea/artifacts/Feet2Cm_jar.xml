@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Feet2Cm:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Feet2Cm_jar</output-path>
+    <root id="archive" name="Feet2Cm.jar">
+      <element id="module-output" name="Feet2Cm" />
+    </root>
+  </artifact>
+</component>
